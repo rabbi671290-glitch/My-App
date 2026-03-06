@@ -1,0 +1,5 @@
+{
+  "name": "HisabX",
+  "description": "A financial management app for garment workers in Bangladesh to track salary, overtime, expenses, and debts.",
+  "requestFramePermissions": []
+}
